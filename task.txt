@@ -1,0 +1,4 @@
+Validation
+Add validation to your models. It could be name validation, time validation, number of students in groups, etc. 
+Implement costom validation rule
+
